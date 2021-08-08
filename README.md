@@ -11,5 +11,6 @@ I'm an aspiring Java Developer and student who strives to code useful open-sourc
 - ✉️ davidhancu@yahoo.com
 - 🎮 Xonyne88#6961 on Discord
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidHancu&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHancu&theme=radical&layout=compact"/>
+### My Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=DavidHancu&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHancu&theme=radical&layout=compact)
