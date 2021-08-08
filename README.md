@@ -9,7 +9,7 @@ I'm an aspiring Java Developer and student who strives to code useful open-sourc
 </div>
   
 ### Software I use
-- ☕ Java, C#, Maven
+- ☕ Java, Maven
 - 📚 MySQL, MariaDB
 - 🔗 PHP
 
