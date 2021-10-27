@@ -5,6 +5,7 @@ I'm an aspiring Java Developer and student who strives to code useful open-sourc
 ### Software I use
 - ☕ Java, C#, Maven
 - 📚 MySQL, MariaDB
+- 🌐 JavaScript, Node.js, Next.js, React.js
 - 🔗 PHP
 
 ### You can reach me via...
