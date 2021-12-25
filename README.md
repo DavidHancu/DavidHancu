@@ -5,11 +5,11 @@ I'm an aspiring Java Developer and student who strives to code useful open-sourc
 ### Software I use
 - ☕ Java, C#, Maven
 - 📚 MySQL, MariaDB
-- 🌐 JavaScript, Node.js, Next.js, React.js
+- 🌐 JavaScript, Node.js, Next.js, React.js, Typescript
 - 🔗 PHP
 
 ### You can reach me via...
-- ✉️ davidhancu@yahoo.com
+- ✉️ contact@davidhancu.com
 - 🎮 Xonyne88#6961 on Discord
 
 ### My Stats
