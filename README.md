@@ -4,7 +4,7 @@ I'm an aspiring Java Developer and student who strives to code useful open-sourc
 
 ### Software I use
 - ☕ Java, C#, Maven
-- 📚 MySQL, MariaDB
+- 📚 MySQL, MariaDB, PostgreSQL
 - 🌐 JavaScript, Node.js, Next.js, React.js, Typescript
 - 🔗 PHP
 
