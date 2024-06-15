@@ -1,12 +1,13 @@
 ## Hi there, I'm David 👋
 
-I'm an aspiring Java Developer and student who strives to code useful open-source stuff that can help people.
+I'm an aspiring Rust Developer and student who strives to code useful open-source stuff that can help people.
 
 ### Software I use
+
+- 🦀 Rust
 - ☕ Java, C#, Maven
 - 📚 MySQL, MariaDB, PostgreSQL
 - 🌐 JavaScript, Node.js, Next.js, React.js, Typescript
-- 🔗 PHP
 
 ### You can reach me via...
 - ✉️ contact@davidhancu.com
